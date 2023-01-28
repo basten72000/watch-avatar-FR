@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    background-color: back;
+    margin: 0px;
+}
+body {
+    align-items: center;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+
+div{
+    display: flex; 
+    flex-direction: 
+    column; align-items: center; 
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.livre img{
+}
+
+.spacer{
+    padding: 5%
+ }
+.menu{
+    display: flex;
+    list-style-type: none;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 16px;
+}
