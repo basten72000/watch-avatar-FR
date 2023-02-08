@@ -43,6 +43,7 @@ a{
     background-color: rgb(0, 132, 255);
     padding: 1%;
     font-family: sans-serif;
+    font-size: 150%;
 }
 
 @media (min-width:900px){
