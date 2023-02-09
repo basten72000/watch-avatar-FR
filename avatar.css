@@ -19,6 +19,7 @@ div{
 }
 
 .livre img{
+    max-width: 1000px;
     width: 100%;
 }
 
@@ -46,8 +47,16 @@ a{
     font-size: 150%;
 }
 
-@media (min-width:900px){
-.livre img{
-    width: 60%;
+.head{
+    margin-bottom: 10%;
+    padding-top: 12%;
+    width: 100%;
+    background-color: rgb(19, 19, 19); 
 }
+
+.pied-page{
+    margin-top: 10%;
+    padding-top: 12%;
+    width: 100%;
+    background-color: rgb(19, 19, 19);
 }
