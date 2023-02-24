@@ -91,20 +91,23 @@ h1{
 
 .s1{
     background-color: #7094b7;
-    padding: 1%;
-    width: fit-content;
+    padding: 15px;
+    width: 90%;
+    max-width: fit-content;
 }
 
 .s2{
     background-color: #639165;
-    padding: 1%;
-    width: fit-content;
+    padding: 15px;
+    width: 90%;
+    max-width: fit-content;
 }
 
 .s3{
     background-color: #cb5d2b;
-    padding: 1%;
-    width: fit-content;
+    padding: 15px;
+    width: 90%;
+    max-width: fit-content;
 }
 
 
