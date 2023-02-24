@@ -164,9 +164,11 @@ h1{
 }
 #g{
     left: -200px;
+    visibility: hidden;
 }
 #d{
     right: -200px;
+    visibility: hidden;
 }
 
 
