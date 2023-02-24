@@ -2,7 +2,7 @@
 
 document.body.onload=function(){
 
-    ep=20;
+    ep=16;
     p=0;
 
     content=document.getElementsByClassName("content");
